@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  Bow Ties
 //
-//  Created by Pietro Rea on 7/12/15.
-//  Copyright © 2015 Razeware. All rights reserved.
+//  Created by YASH on 24/06/16.
+//  Copyright © 2016 YASH. All rights reserved.
 //
 
 import UIKit
